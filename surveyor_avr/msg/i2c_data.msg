@@ -1,0 +1,5 @@
+float32 battery_voltage
+float32 battery_current
+float32 motor_current
+float32 servo_angle
+float32 distance
